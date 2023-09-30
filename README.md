@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Vifez</h1>
-<h3 align="center">I am Java, JS & Python Developer Looking to expand into more languages!</h3>
+<h3 align="center">I am a Java, JS, Python etc Developer Looking to expand into more languages!</h3>
 
 - 🔭 I’m currently working on **Vitality & Guardian**
 
